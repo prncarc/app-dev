@@ -1,0 +1,10 @@
+C:\Users\user\Source\Repos\app-dev\Logins\bin\Debug\Logins.exe.config
+C:\Users\user\Source\Repos\app-dev\Logins\bin\Debug\Logins.exe
+C:\Users\user\Source\Repos\app-dev\Logins\bin\Debug\Logins.pdb
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.Form1.resources
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.Properties.Resources.resources
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.exe
+C:\Users\user\Source\Repos\app-dev\Logins\obj\Debug\Logins.pdb
