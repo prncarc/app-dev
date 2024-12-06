@@ -1,2 +1,2 @@
-# Favorite Food
-My favorite food is Humba.
+# Favorite Place
+My favorite place is Ilijan.
