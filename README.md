@@ -1,2 +1,2 @@
-# Favorite Game
-Mine's favorite games are LoL, DOTA 1 and DOTA 2, Need For Speed, NFS Underground, Mobile Legends and Ragnarok.
+# Favorite Subject
+My favorite subject is definitely Application Development and Emerging Technologies and Advanced Database Systems.
